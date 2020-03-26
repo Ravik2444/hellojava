@@ -1,3 +1,5 @@
 cal
 echo "hey hi"
 hostname
+date
+echo "Thanks"
